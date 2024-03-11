@@ -1,0 +1,14 @@
+C:\Users\filip\Documents\csharpProjects\lancarDado\bin\Debug\net8.0\lancarDado.exe
+C:\Users\filip\Documents\csharpProjects\lancarDado\bin\Debug\net8.0\lancarDado.deps.json
+C:\Users\filip\Documents\csharpProjects\lancarDado\bin\Debug\net8.0\lancarDado.runtimeconfig.json
+C:\Users\filip\Documents\csharpProjects\lancarDado\bin\Debug\net8.0\lancarDado.dll
+C:\Users\filip\Documents\csharpProjects\lancarDado\bin\Debug\net8.0\lancarDado.pdb
+C:\Users\filip\Documents\csharpProjects\lancarDado\obj\Debug\net8.0\lancarDado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\csharpProjects\lancarDado\obj\Debug\net8.0\lancarDado.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\csharpProjects\lancarDado\obj\Debug\net8.0\lancarDado.AssemblyInfo.cs
+C:\Users\filip\Documents\csharpProjects\lancarDado\obj\Debug\net8.0\lancarDado.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\csharpProjects\lancarDado\obj\Debug\net8.0\lancarDado.dll
+C:\Users\filip\Documents\csharpProjects\lancarDado\obj\Debug\net8.0\refint\lancarDado.dll
+C:\Users\filip\Documents\csharpProjects\lancarDado\obj\Debug\net8.0\lancarDado.pdb
+C:\Users\filip\Documents\csharpProjects\lancarDado\obj\Debug\net8.0\lancarDado.genruntimeconfig.cache
+C:\Users\filip\Documents\csharpProjects\lancarDado\obj\Debug\net8.0\ref\lancarDado.dll

@@ -1,0 +1,14 @@
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\obj\Debug\net8.0\renovacaoAssinatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\obj\Debug\net8.0\renovacaoAssinatura.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\obj\Debug\net8.0\renovacaoAssinatura.AssemblyInfo.cs
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\obj\Debug\net8.0\renovacaoAssinatura.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\bin\Debug\net8.0\renovacaoAssinatura.exe
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\bin\Debug\net8.0\renovacaoAssinatura.deps.json
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\bin\Debug\net8.0\renovacaoAssinatura.runtimeconfig.json
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\bin\Debug\net8.0\renovacaoAssinatura.dll
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\bin\Debug\net8.0\renovacaoAssinatura.pdb
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\obj\Debug\net8.0\renovacaoAssinatura.dll
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\obj\Debug\net8.0\refint\renovacaoAssinatura.dll
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\obj\Debug\net8.0\renovacaoAssinatura.pdb
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\obj\Debug\net8.0\renovacaoAssinatura.genruntimeconfig.cache
+C:\Users\filip\Documents\csharpProjects\renovacaoAssinatura\obj\Debug\net8.0\ref\renovacaoAssinatura.dll

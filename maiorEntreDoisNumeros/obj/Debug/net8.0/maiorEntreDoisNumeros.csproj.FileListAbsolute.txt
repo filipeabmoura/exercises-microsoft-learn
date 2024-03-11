@@ -1,0 +1,14 @@
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\bin\Debug\net8.0\maiorEntreDoisNumeros.exe
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\bin\Debug\net8.0\maiorEntreDoisNumeros.deps.json
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\bin\Debug\net8.0\maiorEntreDoisNumeros.runtimeconfig.json
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\bin\Debug\net8.0\maiorEntreDoisNumeros.dll
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\bin\Debug\net8.0\maiorEntreDoisNumeros.pdb
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\obj\Debug\net8.0\maiorEntreDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\obj\Debug\net8.0\maiorEntreDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\obj\Debug\net8.0\maiorEntreDoisNumeros.AssemblyInfo.cs
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\obj\Debug\net8.0\maiorEntreDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\obj\Debug\net8.0\maiorEntreDoisNumeros.dll
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\obj\Debug\net8.0\refint\maiorEntreDoisNumeros.dll
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\obj\Debug\net8.0\maiorEntreDoisNumeros.pdb
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\obj\Debug\net8.0\maiorEntreDoisNumeros.genruntimeconfig.cache
+C:\Users\filip\Documents\csharpProjects\maiorEntreDoisNumeros\obj\Debug\net8.0\ref\maiorEntreDoisNumeros.dll

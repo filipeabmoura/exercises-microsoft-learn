@@ -1,0 +1,14 @@
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\obj\Debug\net8.0\pedidosFraudulentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\obj\Debug\net8.0\pedidosFraudulentos.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\obj\Debug\net8.0\pedidosFraudulentos.AssemblyInfo.cs
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\obj\Debug\net8.0\pedidosFraudulentos.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\bin\Debug\net8.0\pedidosFraudulentos.exe
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\bin\Debug\net8.0\pedidosFraudulentos.deps.json
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\bin\Debug\net8.0\pedidosFraudulentos.runtimeconfig.json
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\bin\Debug\net8.0\pedidosFraudulentos.dll
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\bin\Debug\net8.0\pedidosFraudulentos.pdb
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\obj\Debug\net8.0\pedidosFraudulentos.dll
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\obj\Debug\net8.0\refint\pedidosFraudulentos.dll
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\obj\Debug\net8.0\pedidosFraudulentos.pdb
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\obj\Debug\net8.0\pedidosFraudulentos.genruntimeconfig.cache
+C:\Users\filip\Documents\csharpProjects\pedidosFraudulentos\obj\Debug\net8.0\ref\pedidosFraudulentos.dll

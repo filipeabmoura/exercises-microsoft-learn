@@ -1,0 +1,14 @@
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\obj\Debug\net8.0\inventarioManufatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\obj\Debug\net8.0\inventarioManufatura.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\obj\Debug\net8.0\inventarioManufatura.AssemblyInfo.cs
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\obj\Debug\net8.0\inventarioManufatura.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\bin\Debug\net8.0\inventarioManufatura.exe
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\bin\Debug\net8.0\inventarioManufatura.deps.json
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\bin\Debug\net8.0\inventarioManufatura.runtimeconfig.json
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\bin\Debug\net8.0\inventarioManufatura.dll
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\bin\Debug\net8.0\inventarioManufatura.pdb
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\obj\Debug\net8.0\inventarioManufatura.dll
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\obj\Debug\net8.0\refint\inventarioManufatura.dll
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\obj\Debug\net8.0\inventarioManufatura.pdb
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\obj\Debug\net8.0\inventarioManufatura.genruntimeconfig.cache
+C:\Users\filip\Documents\csharpProjects\inventarioManufatura\obj\Debug\net8.0\ref\inventarioManufatura.dll

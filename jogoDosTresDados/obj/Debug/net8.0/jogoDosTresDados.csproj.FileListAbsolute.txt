@@ -1,0 +1,14 @@
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\bin\Debug\net8.0\jogoDosTresDados.exe
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\bin\Debug\net8.0\jogoDosTresDados.deps.json
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\bin\Debug\net8.0\jogoDosTresDados.runtimeconfig.json
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\bin\Debug\net8.0\jogoDosTresDados.dll
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\bin\Debug\net8.0\jogoDosTresDados.pdb
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\jogoDosTresDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\jogoDosTresDados.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\jogoDosTresDados.AssemblyInfo.cs
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\jogoDosTresDados.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\jogoDosTresDados.dll
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\refint\jogoDosTresDados.dll
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\jogoDosTresDados.pdb
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\jogoDosTresDados.genruntimeconfig.cache
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\ref\jogoDosTresDados.dll

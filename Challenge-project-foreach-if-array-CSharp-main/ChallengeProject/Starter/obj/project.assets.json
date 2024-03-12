@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filip\\Documents\\csharpProjects\\GPCalculaNotas\\GPCalculaNotas.csproj",
-      "projectName": "GPCalculaNotas",
-      "projectPath": "C:\\Users\\filip\\Documents\\csharpProjects\\GPCalculaNotas\\GPCalculaNotas.csproj",
+      "projectUniqueName": "C:\\Users\\filip\\Documents\\csharpProjects\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
+      "projectName": "Starter",
+      "projectPath": "C:\\Users\\filip\\Documents\\csharpProjects\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filip\\Documents\\csharpProjects\\GPCalculaNotas\\obj\\",
+      "outputPath": "C:\\Users\\filip\\Documents\\csharpProjects\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

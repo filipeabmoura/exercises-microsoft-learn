@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filip\\Documents\\csharpProjects\\calculaNotas\\calculaNotas.csproj": {}
+    "C:\\Users\\filip\\Documents\\csharpProjects\\GPCalculaNotas\\GPCalculaNotas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filip\\Documents\\csharpProjects\\calculaNotas\\calculaNotas.csproj": {
+    "C:\\Users\\filip\\Documents\\csharpProjects\\GPCalculaNotas\\GPCalculaNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filip\\Documents\\csharpProjects\\calculaNotas\\calculaNotas.csproj",
-        "projectName": "calculaNotas",
-        "projectPath": "C:\\Users\\filip\\Documents\\csharpProjects\\calculaNotas\\calculaNotas.csproj",
+        "projectUniqueName": "C:\\Users\\filip\\Documents\\csharpProjects\\GPCalculaNotas\\GPCalculaNotas.csproj",
+        "projectName": "GPCalculaNotas",
+        "projectPath": "C:\\Users\\filip\\Documents\\csharpProjects\\GPCalculaNotas\\GPCalculaNotas.csproj",
         "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filip\\Documents\\csharpProjects\\calculaNotas\\obj\\",
+        "outputPath": "C:\\Users\\filip\\Documents\\csharpProjects\\GPCalculaNotas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

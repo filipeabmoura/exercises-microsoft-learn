@@ -1,0 +1,15 @@
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\bin\Debug\net8.0\caraOuCoroa.exe
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\bin\Debug\net8.0\caraOuCoroa.deps.json
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\bin\Debug\net8.0\caraOuCoroa.runtimeconfig.json
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\bin\Debug\net8.0\caraOuCoroa.dll
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\bin\Debug\net8.0\caraOuCoroa.pdb
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\obj\Debug\net8.0\caraOuCoroa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\obj\Debug\net8.0\caraOuCoroa.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\obj\Debug\net8.0\caraOuCoroa.AssemblyInfo.cs
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\obj\Debug\net8.0\caraOuCoroa.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\obj\Debug\net8.0\caraOuCoroa.sourcelink.json
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\obj\Debug\net8.0\caraOuCoroa.dll
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\obj\Debug\net8.0\refint\caraOuCoroa.dll
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\obj\Debug\net8.0\caraOuCoroa.pdb
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\obj\Debug\net8.0\caraOuCoroa.genruntimeconfig.cache
+C:\Users\filip\Documents\csharpProjects\caraOuCoroa\obj\Debug\net8.0\ref\caraOuCoroa.dll

@@ -1,0 +1,15 @@
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\bin\Debug\net8.0\mautencaoEstoque.exe
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\bin\Debug\net8.0\mautencaoEstoque.deps.json
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\bin\Debug\net8.0\mautencaoEstoque.runtimeconfig.json
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\bin\Debug\net8.0\mautencaoEstoque.dll
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\bin\Debug\net8.0\mautencaoEstoque.pdb
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\obj\Debug\net8.0\mautencaoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\obj\Debug\net8.0\mautencaoEstoque.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\obj\Debug\net8.0\mautencaoEstoque.AssemblyInfo.cs
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\obj\Debug\net8.0\mautencaoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\obj\Debug\net8.0\mautencaoEstoque.sourcelink.json
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\obj\Debug\net8.0\mautencaoEstoque.dll
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\obj\Debug\net8.0\refint\mautencaoEstoque.dll
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\obj\Debug\net8.0\mautencaoEstoque.pdb
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\obj\Debug\net8.0\mautencaoEstoque.genruntimeconfig.cache
+C:\Users\filip\Documents\csharpProjects\mautencaoEstoque\obj\Debug\net8.0\ref\mautencaoEstoque.dll

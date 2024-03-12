@@ -1,0 +1,15 @@
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\bin\Debug\net8.0\nivelEmpregado.exe
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\bin\Debug\net8.0\nivelEmpregado.deps.json
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\bin\Debug\net8.0\nivelEmpregado.runtimeconfig.json
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\bin\Debug\net8.0\nivelEmpregado.dll
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\bin\Debug\net8.0\nivelEmpregado.pdb
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\obj\Debug\net8.0\nivelEmpregado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\obj\Debug\net8.0\nivelEmpregado.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\obj\Debug\net8.0\nivelEmpregado.AssemblyInfo.cs
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\obj\Debug\net8.0\nivelEmpregado.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\obj\Debug\net8.0\nivelEmpregado.sourcelink.json
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\obj\Debug\net8.0\nivelEmpregado.dll
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\obj\Debug\net8.0\refint\nivelEmpregado.dll
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\obj\Debug\net8.0\nivelEmpregado.pdb
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\obj\Debug\net8.0\nivelEmpregado.genruntimeconfig.cache
+C:\Users\filip\Documents\csharpProjects\nivelEmpregado\obj\Debug\net8.0\ref\nivelEmpregado.dll

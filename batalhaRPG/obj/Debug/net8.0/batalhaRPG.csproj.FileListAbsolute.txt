@@ -1,0 +1,15 @@
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\obj\Debug\net8.0\batalhaRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\obj\Debug\net8.0\batalhaRPG.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\obj\Debug\net8.0\batalhaRPG.AssemblyInfo.cs
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\obj\Debug\net8.0\batalhaRPG.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\obj\Debug\net8.0\batalhaRPG.sourcelink.json
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\bin\Debug\net8.0\batalhaRPG.exe
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\bin\Debug\net8.0\batalhaRPG.deps.json
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\bin\Debug\net8.0\batalhaRPG.runtimeconfig.json
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\bin\Debug\net8.0\batalhaRPG.dll
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\bin\Debug\net8.0\batalhaRPG.pdb
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\obj\Debug\net8.0\batalhaRPG.dll
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\obj\Debug\net8.0\refint\batalhaRPG.dll
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\obj\Debug\net8.0\batalhaRPG.pdb
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\obj\Debug\net8.0\batalhaRPG.genruntimeconfig.cache
+C:\Users\filip\Documents\csharpProjects\batalhaRPG\obj\Debug\net8.0\ref\batalhaRPG.dll

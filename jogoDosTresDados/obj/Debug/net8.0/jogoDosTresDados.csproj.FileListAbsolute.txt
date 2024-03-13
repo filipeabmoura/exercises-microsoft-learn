@@ -12,3 +12,4 @@ C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\refint
 C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\jogoDosTresDados.pdb
 C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\jogoDosTresDados.genruntimeconfig.cache
 C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\ref\jogoDosTresDados.dll
+C:\Users\filip\Documents\csharpProjects\jogoDosTresDados\obj\Debug\net8.0\jogoDosTresDados.sourcelink.json
